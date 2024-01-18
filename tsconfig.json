@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    /* https://aka.ms/tsconfig to read more about this file */
+    "target": "es2016",
+    "module": "CommonJS",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "skipLibCheck": true,
+    "outDir": "src/js",
+    "sourceMap": true
+  }
+}

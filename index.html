@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guess the number!</title>
+  <link rel="stylesheet" href="./src/css/style.css">
+  <script defer type="module" src="./src/ts/index.ts"></script>
+</head>
+
+<body>
+  <div class="guess">
+    <h1 class="title">Guess the number 1 to 20 in ten tries!</h1>
+    <div class="guess-container">
+      <form class="guess-form">
+        <input class="guess-form-input" type="number" placeholder="enter a number">
+        <button class="guess-form-button">reply</button>
+      </form>
+      <div class="guess-info">
+        <p class="result"></p>
+        <p class="attempts">Attempts remaining: 10</p>
+        <p class="attempts-history">The history of attempts in this game: </p>
+      </div>
+      <button class="restart-button" type="reset">restart</button>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+{"version":3,"file":"consts.js","sourceRoot":"","sources":["../ts/consts.ts"],"names":[],"mappings":";;;AAAA,MAAM,gBAAgB,GAAG,EAAE,CAAA;AAsBlB,4CAAgB;AApBzB,MAAM,IAAI,GAAG;IACX,iBAAiB,EAAE,sBAAsB;IACzC,gBAAgB,EAAE,EAAE;IACpB,iBAAiB,EAAE,wCAAwC;IAC3D,0BAA0B,EAAE,6BAA6B;IACzD,mBAAmB,EAAE,UAAU;IAC/B,gBAAgB,EAAE,MAAM;IACxB,kBAAkB,EAAE,QAAQ;CAC7B,CAAA;AAY0B,oBAAI"}
